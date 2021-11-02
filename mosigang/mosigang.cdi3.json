@@ -1,0 +1,629 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamRuruHairR",
+			"GroupId": "ParamGroup",
+			"Name": "ruru hair R"
+		},
+		{
+			"Id": "ParamRuruHairF",
+			"GroupId": "ParamGroup",
+			"Name": "ruru hair F"
+		},
+		{
+			"Id": "ParamRuruRibbon",
+			"GroupId": "ParamGroup",
+			"Name": "ruru ribbon"
+		},
+		{
+			"Id": "ParamRuruY",
+			"GroupId": "ParamGroup",
+			"Name": "ruru y"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh30",
+			"GroupId": "ParamGroup7",
+			"Name": "[0]ruru hair back"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh30",
+			"GroupId": "ParamGroup7",
+			"Name": "[1]ruru hair back"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh30",
+			"GroupId": "ParamGroup7",
+			"Name": "[2]ruru hair back"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh30",
+			"GroupId": "ParamGroup7",
+			"Name": "[3]ruru hair back"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh30",
+			"GroupId": "ParamGroup7",
+			"Name": "[4]ruru hair back"
+		},
+		{
+			"Id": "ParamLilHairF",
+			"GroupId": "ParamGroup2",
+			"Name": "lil hair F"
+		},
+		{
+			"Id": "ParamLilRibbon",
+			"GroupId": "ParamGroup2",
+			"Name": "lil ribbon"
+		},
+		{
+			"Id": "ParamLilHand",
+			"GroupId": "ParamGroup2",
+			"Name": "lil hand"
+		},
+		{
+			"Id": "ParamLilY",
+			"GroupId": "ParamGroup2",
+			"Name": "lil y"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh24",
+			"GroupId": "ParamGroup8",
+			"Name": "[0]lil hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh24",
+			"GroupId": "ParamGroup8",
+			"Name": "[1]lil hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh24",
+			"GroupId": "ParamGroup8",
+			"Name": "[2]lil hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh24",
+			"GroupId": "ParamGroup8",
+			"Name": "[3]lil hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh24",
+			"GroupId": "ParamGroup8",
+			"Name": "[4]lil hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[0]lil ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[1]lil ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[2]lil ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[3]lil ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[4]lil ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[5]lil ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh26",
+			"GroupId": "ParamGroup9",
+			"Name": "[6]lil ponytail"
+		},
+		{
+			"Id": "ParamJingArmR",
+			"GroupId": "ParamGroup3",
+			"Name": "jing arm R"
+		},
+		{
+			"Id": "ParamHandleArm",
+			"GroupId": "ParamGroup3",
+			"Name": "jing handle"
+		},
+		{
+			"Id": "ParamJingBurger",
+			"GroupId": "ParamGroup3",
+			"Name": "jing burger"
+		},
+		{
+			"Id": "ParamJingY",
+			"GroupId": "ParamGroup3",
+			"Name": "jing y"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_jing2",
+			"GroupId": "ParamGroup10",
+			"Name": "[0]jing"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_jing2",
+			"GroupId": "ParamGroup10",
+			"Name": "[1]jing"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_jing2",
+			"GroupId": "ParamGroup10",
+			"Name": "[2]jing"
+		},
+		{
+			"Id": "ParamChanY",
+			"GroupId": "ParamGroup4",
+			"Name": "chan y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup4",
+			"Name": "computer"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[0]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[1]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[2]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[3]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[4]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[5]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh11",
+			"GroupId": "ParamGroup11",
+			"Name": "[6]chan hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[0]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[1]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[2]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[3]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[4]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[5]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh10",
+			"GroupId": "ParamGroup12",
+			"Name": "[6]chan hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh12",
+			"GroupId": "ParamGroup13",
+			"Name": "[0]chan hair R 2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh12",
+			"GroupId": "ParamGroup13",
+			"Name": "[1]chan hair R 2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh12",
+			"GroupId": "ParamGroup13",
+			"Name": "[2]chan hair R 2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh12",
+			"GroupId": "ParamGroup13",
+			"Name": "[3]chan hair R 2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh12",
+			"GroupId": "ParamGroup13",
+			"Name": "[4]chan hair R 2"
+		},
+		{
+			"Id": "ParamIneHairF",
+			"GroupId": "ParamGroup5",
+			"Name": "ine hair F"
+		},
+		{
+			"Id": "ParamIneShirt",
+			"GroupId": "ParamGroup5",
+			"Name": "ine shirt"
+		},
+		{
+			"Id": "ParamIneY",
+			"GroupId": "ParamGroup5",
+			"Name": "ine y"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh38",
+			"GroupId": "ParamGroup16",
+			"Name": "[0]ine ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh38",
+			"GroupId": "ParamGroup16",
+			"Name": "[1]ine ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh38",
+			"GroupId": "ParamGroup16",
+			"Name": "[2]ine ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh38",
+			"GroupId": "ParamGroup16",
+			"Name": "[3]ine ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh38",
+			"GroupId": "ParamGroup16",
+			"Name": "[4]ine ponytail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh36",
+			"GroupId": "ParamGroup15",
+			"Name": "[0]ine hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh36",
+			"GroupId": "ParamGroup15",
+			"Name": "[1]ine hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh36",
+			"GroupId": "ParamGroup15",
+			"Name": "[2]ine hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh36",
+			"GroupId": "ParamGroup15",
+			"Name": "[3]ine hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh36",
+			"GroupId": "ParamGroup15",
+			"Name": "[4]ine hair R"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh35",
+			"GroupId": "ParamGroup14",
+			"Name": "[0]ine hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh35",
+			"GroupId": "ParamGroup14",
+			"Name": "[1]ine hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh35",
+			"GroupId": "ParamGroup14",
+			"Name": "[2]ine hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh35",
+			"GroupId": "ParamGroup14",
+			"Name": "[3]ine hair L"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh35",
+			"GroupId": "ParamGroup14",
+			"Name": "[4]ine hair L"
+		},
+		{
+			"Id": "ParamSeguHairR",
+			"GroupId": "ParamGroup6",
+			"Name": "segu hair R"
+		},
+		{
+			"Id": "ParamSeguHairL",
+			"GroupId": "ParamGroup6",
+			"Name": "segu hair L"
+		},
+		{
+			"Id": "ParamSeguLegR",
+			"GroupId": "ParamGroup6",
+			"Name": "segu leg R"
+		},
+		{
+			"Id": "ParamSeguLegL",
+			"GroupId": "ParamGroup6",
+			"Name": "segu leg L"
+		},
+		{
+			"Id": "ParamSeguArm",
+			"GroupId": "ParamGroup6",
+			"Name": "segu arm"
+		},
+		{
+			"Id": "ParamSeguSunglasses",
+			"GroupId": "ParamGroup6",
+			"Name": "segu sunglasses"
+		},
+		{
+			"Id": "ParamSeguFY",
+			"GroupId": "ParamGroup6",
+			"Name": "segu FY"
+		},
+		{
+			"Id": "ParamSeguY",
+			"GroupId": "ParamGroup6",
+			"Name": "segu y"
+		},
+		{
+			"Id": "ParamCarX",
+			"GroupId": "",
+			"Name": "car x"
+		},
+		{
+			"Id": "ParamCarAngle",
+			"GroupId": "",
+			"Name": "car angle"
+		},
+		{
+			"Id": "ParamTireF",
+			"GroupId": "",
+			"Name": "tire F"
+		},
+		{
+			"Id": "ParamTireB",
+			"GroupId": "",
+			"Name": "tire B"
+		},
+		{
+			"Id": "ParamSkid",
+			"GroupId": "",
+			"Name": "skid"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "ruru"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "ruru hair back"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "lil"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "lil hair R"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "lil ponytail"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "jing"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "jing hair"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "chan"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "chan hair R"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "chan hair L"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "chan hair R 2"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "ine"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "ine ponytail"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "ine hair R"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "ine hair L"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "segu"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "segu",
+			"Name": "segu"
+		},
+		{
+			"Id": "Part",
+			"Name": "chan up"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ruru up"
+		},
+		{
+			"Id": "lil",
+			"Name": "lil"
+		},
+		{
+			"Id": "ruru",
+			"Name": "ruru"
+		},
+		{
+			"Id": "chan2",
+			"Name": "chan"
+		},
+		{
+			"Id": "ine",
+			"Name": "ine"
+		},
+		{
+			"Id": "jing",
+			"Name": "jing"
+		},
+		{
+			"Id": "car",
+			"Name": "car"
+		},
+		{
+			"Id": "Part3",
+			"Name": "skid mark"
+		},
+		{
+			"Id": "ArtMesh10_Skinning",
+			"Name": "chan hair L(스키닝)"
+		},
+		{
+			"Id": "Part9",
+			"Name": "chan hair L(회전)"
+		},
+		{
+			"Id": "ArtMesh11_Skinning",
+			"Name": "chan hair R(스키닝)"
+		},
+		{
+			"Id": "Part8",
+			"Name": "chan hair R(회전)"
+		},
+		{
+			"Id": "ArtMesh12_Skinning",
+			"Name": "chan hair R 2(스키닝)"
+		},
+		{
+			"Id": "Part10",
+			"Name": "chan hair R 2(회전)"
+		},
+		{
+			"Id": "ArtMesh24_Skinning",
+			"Name": "lil hair R(스키닝)"
+		},
+		{
+			"Id": "Part5",
+			"Name": "lil hair R(회전)"
+		},
+		{
+			"Id": "ArtMesh26_Skinning",
+			"Name": "lil ponytail(스키닝)"
+		},
+		{
+			"Id": "Part6",
+			"Name": "lil ponytail(회전)"
+		},
+		{
+			"Id": "ArtMesh30_Skinning",
+			"Name": "ruru hair back(스키닝)"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ruru hair back(회전)"
+		},
+		{
+			"Id": "ArtMesh35_Skinning",
+			"Name": "ine hair L(스키닝)"
+		},
+		{
+			"Id": "Part11",
+			"Name": "ine hair L(회전)"
+		},
+		{
+			"Id": "ArtMesh36_Skinning",
+			"Name": "ine hair R(스키닝)"
+		},
+		{
+			"Id": "Part12",
+			"Name": "ine hair R(회전)"
+		},
+		{
+			"Id": "ArtMesh38_Skinning",
+			"Name": "ine ponytail(스키닝)"
+		},
+		{
+			"Id": "Part13",
+			"Name": "ine ponytail(회전)"
+		},
+		{
+			"Id": "jing2_Skinning",
+			"Name": "jing(스키닝)"
+		},
+		{
+			"Id": "Part7",
+			"Name": "jing(회전)"
+		}
+	]
+}

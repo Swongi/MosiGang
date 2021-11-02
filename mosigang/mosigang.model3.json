@@ -1,0 +1,45 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "mosigang.moc3",
+		"Textures": [
+			"mosigang.2048/texture_00.png"
+		],
+		"Physics": "mosigang.physics3.json",
+		"DisplayInfo": "mosigang.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/idle car.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"TapCar": [
+				{
+					"File": "motions/jump.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Car"
+		}
+	]
+}
