@@ -21,7 +21,7 @@ const live2d = PIXI.live2d;
     models.forEach((model) => {
     app.stage.addChild(model);
 
-    model.scale.set(0.7)
+    model.scale.set(0.5)
     model.x = innerWidth * 0.4 - model.width/2;
     model.y = innerHeight * 0.6 - model.height/2;
   });
